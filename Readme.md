@@ -1,7 +1,7 @@
 ## Installation and Run Instructions
 
 ```
-git clone https://github.com/YorgosTheodorakis/tune-and-monitor
+git clone git://github.com/YorgosTheodorakis/tune-and-monitor
 cd tune-and-monitor
 python3 -m venv venv
 ./venv/bin/python -m pip install requirements.txt
