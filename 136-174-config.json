@@ -1,0 +1,139 @@
+{
+  "included_frequencies": [
+    {
+      "start": 136,
+      "end": 174,
+      "width": 2500
+    }
+  ],
+  "ignored_frequencies": [
+    {
+      "center": 136771000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 139077000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 141404000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 143737000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 146036000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 146223000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 148349000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 150688000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 150830000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 153001000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 155314000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 155475000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 161270000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 164766000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 166918000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 167106000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 169225000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 169385000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 171557000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 171730000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 173864000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 174051000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 176176000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    },
+    {
+      "center": 176384000,
+      "span":       50000,
+      "comment": "HackRF noise"
+    }
+  ],
+  "tune_number_of_samples": 100,
+  "monitor_number_of_samples": 20,
+  "lna_gain": 10,
+  "vga_gain": 10,
+  "rx_amp": 0,
+  "bias_tee": 0,
+  "sensitivity": 10,
+  "tuning_period": 30
+}
